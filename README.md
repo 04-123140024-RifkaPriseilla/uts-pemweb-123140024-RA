@@ -8,7 +8,7 @@ Aplikasi ini memungkinkan pengguna untuk melihat artikel berita "Top Headlines" 
 
 ## Tampilan Aplikasi (Screenshot)
 
-![Tampilan News Portal](screenshot/TampilanApk.png)
+![Tampilan News Portal](screenshot/tampilann.png)
 
 ## Fitur Utama
 

@@ -1,6 +1,6 @@
 # News Portal
-Nama : Rifka Priseilla Br Silitonga
-Nim : 123140024
+Nama : Rifka Priseilla Br Silitonga (123140024)
+
 
 "News Portal" dibangun menggunakan React (Vite) dan mengambil data dari NewsAPI.
 
@@ -8,9 +8,7 @@ Aplikasi ini memungkinkan pengguna untuk melihat artikel berita "Top Headlines" 
 
 ## Tampilan Aplikasi (Screenshot)
 
-*(Catatan: Ganti placeholder di bawah ini dengan screenshot aplikasi Anda)*
-
-![Tampilan News Portal](https://via.placeholder.com/800x450.png?text=Screenshot+Aplikasi+News+Portal)
+![Tampilan News Portal](screenshot/tampilan.png)
 
 ## Fitur Utama
 
@@ -62,12 +60,11 @@ Pastikan Anda memiliki [Node.js](https://nodejs.org/) (v18 atau lebih tinggi) te
     npm run dev
     ```
 
-5.  Buka [http://localhost:5173](http://localhost:5173) (atau port lain yang muncul di terminal) di browser.
+5.  Buka [http://localhost:5173](atau port lain yang muncul di terminal) di browser.
 
 ## Link Deployment
 
 Aplikasi ini telah di-deploy menggunakan Vercel.
 
-**Link:** [https://nama-proyek-anda.vercel.app/](https://nama-proyek-anda.vercel.app/)
+**Link:** [https://uts-pemweb-123140024-ra.vercel.app/]
 
-*(Catatan: Ganti URL di atas dengan link Vercel Anda)*
